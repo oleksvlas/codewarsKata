@@ -1,4 +1,6 @@
 /*
+Student's Final Grade
+
 Create a function finalGrade, which calculates the final grade of a student depending on two parameters: a grade for the exam and a number of completed projects.
 
 This function should take two arguments: exam - grade for exam (from 0 to 100); projects - number of completed projects (from 0 and above);
