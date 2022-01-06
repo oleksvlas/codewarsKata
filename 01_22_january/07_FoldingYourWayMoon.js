@@ -18,5 +18,3 @@ function foldTo(distance) {
   }
   return count;
 }
-
-foldTo(384000000);
