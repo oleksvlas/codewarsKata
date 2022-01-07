@@ -9,5 +9,3 @@ For example, update_light('green') should return 'yellow'.
 function updateLight(current) {
     return current === "green" ? "yellow" : (current === "yellow" ? "red" : "green");
 }
-
-console.log(updateLight("red"));
