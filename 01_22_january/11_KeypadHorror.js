@@ -16,7 +16,6 @@
 
 Пример:
 "789" -> "123"
-
 */
 function computerToPhone(numbers) {
   let numb = { 1: "7", 2: "8", 3: "9", 9: "1", 8: "2", 7: "3" };
